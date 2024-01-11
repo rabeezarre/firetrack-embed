@@ -13,7 +13,7 @@ The embedded system of FireTrack consists of two main parts: `client_lora` and `
 #### 1. `client_lora` - Data Collection Node
 - **Hardware**: Adafruit Feather Bluefruit Sense equipped with the nRF52840 SoC.
 - **LoRa Module**: Connected to Adafruit LoRa Radio FeatherWing - RFM95W.
-- **Function**: It gathers sensor data and transmits it using the LoRaWAN protocol.
+- **Function**: It gathers sensor data and transmits it using the LoRa.
 - **Programming Environment**: Developed using CircuitPython in Visual Studio.
 
 #### 2. `server_wifi` - Data Relay Node
