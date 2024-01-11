@@ -58,4 +58,4 @@ The result can be seen:
 - [**Backend**:](https://github.com/rabeezarre/firetrack) Centralized database for web and mobile interfaces, built with Spring Boot using Java 17 and Gradle.
 
 ### Authors and Acknowledgment
-- Author: rabeezarre [GitHub user](https://github.com/rabeezarre)# firetrack-embed
+- Author: rabeezarre [GitHub user](https://github.com/rabeezarre)
